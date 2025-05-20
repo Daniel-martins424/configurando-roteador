@@ -1,1 +1,149 @@
-# configurando-roteador
+# Guia Completo de Configuração – TP-Link Archer C64
+
+Este guia cobre todo o processo de configuração do roteador TP-Link Archer C64 usando o site oficial de gerenciamento: [http://tplinkwifi.net](http://tplinkwifi.net).
+
+---
+
+## O que você vai precisar
+
+- Um roteador TP-Link Archer C64 conectado à energia elétrica.
+- Um cabo Ethernet (opcional, se for usar conexão cabeada).
+- Um navegador da web (Chrome, Firefox, Edge, etc.).
+- Nome de usuário e senha do seu provedor (caso a conexão seja PPPoE).
+
+---
+
+## 1. Conectando os cabos
+
+1. Conecte o roteador à tomada.
+2. Use o cabo Ethernet para conectar o modem à porta **WAN** (geralmente azul) do roteador.
+3. Conecte seu computador ao roteador via:
+   - Cabo Ethernet (porta LAN), ou
+   - Wi-Fi padrão com SSID e senha impressos no adesivo do roteador.
+
+---
+
+## 2. Acessando a Interface Web
+
+1. Abra um navegador e acesse:
+   - `http://tplinkwifi.net`  
+   - ou `http://192.168.0.1`
+2. Ao abrir o painel, crie uma **nova senha de administrador**.
+3. Clique em **Começar** para iniciar a configuração.
+
+---
+
+## 3. Assistente de Configuração Inicial
+
+O assistente da TP-Link guiará você pelas seguintes etapas:
+
+### 1. Fuso Horário
+
+- Escolha o fuso horário correto (Exemplo: **GMT -03:00 Brasília**).
+- Clique em **Avançar**.
+
+### 2. Tipo de Conexão de Internet
+
+Selecione de acordo com sua operadora:
+
+- **IP Dinâmico (DHCP)** – Mais comum em operadoras de cabo.
+- **PPPoE** – Usado por operadoras de fibra/ADSL. Insira o **usuário** e **senha** fornecidos.
+- **IP Estático** – Insira IP, Máscara, Gateway e DNS manualmente.
+
+Clique em **Avançar**.
+
+### 3. Configuração Wi-Fi
+
+Você poderá configurar as bandas 2.4GHz e 5GHz:
+
+- **Ativar Wi-Fi:** Certifique-se de que ambas as bandas estão ativas.
+- **Nome da rede (SSID):** Escolha nomes para cada banda ou unifique os nomes.
+- **Senha Wi-Fi:** Crie uma senha forte (mínimo de 8 caracteres).
+
+Clique em **Avançar**.
+
+### 4. Confirmação das Configurações
+
+- Revise todas as configurações (conexão, Wi-Fi, fuso horário).
+- Clique em **Salvar**.
+- O roteador irá reiniciar com as novas definições.
+
+---
+
+## 4. Acesso ao Painel Pós-Configuração
+
+Depois da reinicialização:
+
+1. Conecte-se à nova rede Wi-Fi criada.
+2. Acesse novamente `http://tplinkwifi.net`.
+3. Faça login usando a senha de administrador criada no início.
+
+---
+
+## 5. Configurações Recomendadas (Avançadas)
+
+### Alterar Senha de Administração
+
+Menu: `Sistema > Administrador`
+
+- Altere a senha de acesso ao painel se desejar.
+
+### Configurar DNS Manual (opcional)
+
+Menu: `Rede > Internet > Configurações Avançadas`
+
+- DNS Google: `8.8.8.8` / `8.8.4.4`
+- DNS Cloudflare: `1.1.1.1` / `1.0.0.1`
+
+### Ativar Rede de Convidados
+
+Menu: `Rede para Convidados`
+
+- Crie um SSID separado para visitantes.
+- Defina senha própria e limite de banda, se necessário.
+
+### Controle dos Pais
+
+Menu: `Controle dos Pais`
+
+- Configure regras para dispositivos específicos:
+  - Restrições de tempo de uso.
+  - Filtros de conteúdo.
+
+### Qualidade de Serviço (QoS)
+
+Menu: `QoS`
+
+- Priorize largura de banda para atividades como:
+  - Streaming.
+  - Jogos online.
+  - Videoconferência.
+
+### Atualizar Firmware
+
+Menu: `Sistema > Atualização de Firmware`
+
+- Clique em **Verificar Atualizações Online**.
+- Se houver nova versão, clique em **Atualizar Agora**.
+
+---
+
+## 6. Testando a Conexão
+
+1. Conecte um dispositivo à rede Wi-Fi configurada.
+2. Acesse um site no navegador.
+3. Se carregar normalmente, a conexão está funcionando corretamente.
+
+---
+
+## Dicas Finais
+
+- Salve suas senhas: Anote a senha de administração e do Wi-Fi em local seguro.
+- Reinicie quando necessário: Reinicializações resolvem falhas temporárias.
+- Atualize regularmente: Mantenha o firmware atualizado para segurança e desempenho.
+
+---
+
+## Suporte
+
+Se precisar de ajuda adicional, acesse: [https://www.tp-link.com/br/support](https://www.tp-link.com/br/support)
