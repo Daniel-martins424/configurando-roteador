@@ -1,5 +1,7 @@
 # Guia Completo de Configuração – TP-Link Archer C64
 
+![imagen](https://sdmntpreastus.oaiusercontent.com/files/00000000-98a8-61f9-967e-d2b86e502fef/raw?se=2025-05-20T19%3A21%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=08f03425-4d34-59e1-9445-f605cb86bb42&skoid=31bc9c1a-c7e0-460a-8671-bf4a3c419305&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-20T00%3A33%3A02Z&ske=2025-05-21T00%3A33%3A02Z&sks=b&skv=2024-08-04&sig=JmS%2BMD1LYVHyKavW52UFojLfCVGnmnux%2B1a54%2BmUNn8%3D)
+
 Este guia cobre todo o processo de configuração do roteador TP-Link Archer C64 usando o site oficial de gerenciamento: [http://tplinkwifi.net](http://tplinkwifi.net).
 
 ---
@@ -61,7 +63,7 @@ Você poderá configurar as bandas 2.4GHz e 5GHz:
 - **Senha Wi-Fi:** Crie uma senha forte (mínimo de 8 caracteres).
 
 Clique em **Avançar**.
-
+![imagen](https://raw.githubusercontent.com/Daniel-martins424/configurando-roteador/refs/heads/main/Captura%20de%20tela%202025-05-20%20160858.png)
 ### 4. Confirmação das Configurações
 
 - Revise todas as configurações (conexão, Wi-Fi, fuso horário).
@@ -125,9 +127,9 @@ Menu: `Sistema > Atualização de Firmware`
 
 - Clique em **Verificar Atualizações Online**.
 - Se houver nova versão, clique em **Atualizar Agora**.
-
+![imagen](https://raw.githubusercontent.com/Daniel-martins424/configurando-roteador/refs/heads/main/Captura%20de%20tela%202025-05-20%20160923.png)
 ---
-
+![imagen](https://raw.githubusercontent.com/Daniel-martins424/configurando-roteador/refs/heads/main/Captura%20de%20tela%202025-05-20%20160949.png)
 ## 6. Testando a Conexão
 
 1. Conecte um dispositivo à rede Wi-Fi configurada.
