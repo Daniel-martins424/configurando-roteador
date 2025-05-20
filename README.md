@@ -41,7 +41,7 @@ O assistente da TP-Link guiará você pelas seguintes etapas:
 
 - Escolha o fuso horário correto (Exemplo: **GMT -03:00 Brasília**).
 - Clique em **Avançar**.
-
+![imagen](https://github.com/Daniel-martins424/configurando-roteador/blob/main/Captura%20de%20tela%202025-05-20%20160641.png?raw=true)
 ### 2. Tipo de Conexão de Internet
 
 Selecione de acordo com sua operadora:
@@ -51,7 +51,7 @@ Selecione de acordo com sua operadora:
 - **IP Estático** – Insira IP, Máscara, Gateway e DNS manualmente.
 
 Clique em **Avançar**.
-
+![imagen](https://github.com/Daniel-martins424/configurando-roteador/blob/main/Captura%20de%20tela%202025-05-20%20160641.png?raw=true)
 ### 3. Configuração Wi-Fi
 
 Você poderá configurar as bandas 2.4GHz e 5GHz:
