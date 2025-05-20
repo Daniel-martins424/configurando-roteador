@@ -90,13 +90,6 @@ Menu: `Sistema > Administrador`
 
 - Altere a senha de acesso ao painel se desejar.
 
-### Configurar DNS Manual (opcional)
-
-Menu: `Rede > Internet > Configurações Avançadas`
-
-- DNS Google: `8.8.8.8` / `8.8.4.4`
-- DNS Cloudflare: `1.1.1.1` / `1.0.0.1`
-
 ### Ativar Rede de Convidados
 
 Menu: `Rede para Convidados`
